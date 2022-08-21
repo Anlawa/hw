@@ -59,7 +59,7 @@ public class Main {
         }
         System.out.println();
 
-        //task3
+        //task 3
 
         for (int i = 0; i < weight1.length; i++) {
             if (weight1[i] % 2 == 1) {
